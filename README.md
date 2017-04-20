@@ -43,5 +43,5 @@
 ## ios_dylib_cache.bt
 		  该脚本用于识别iOS cache文件，该文件存储系统库代码
 		  This script is for iOS cache file format, for example:dyld_shared_cache_armv7s.
-![image](https://github.com/lichao890427/010editor_script/blob/master/screenshots/macho_ext.png)
+![image](https://github.com/lichao890427/010editor_script/blob/master/screenshots/ios_cache.png)
 
