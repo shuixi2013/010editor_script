@@ -34,3 +34,14 @@
 
 如图是解析AXML：
 ![image](https://github.com/lichao890427/010editor_script/blob/master/screenshots/axml2.png)
+
+## ios_cookie.bt
+		  该脚本用于识别iOS二进制Cookie文件
+		  This script is for iOS binary cookie file format.
+![image](https://github.com/lichao890427/010editor_script/blob/master/screenshots/ios_binary_cookie.png)
+
+## ios_dylib_cache.bt
+		  该脚本用于识别iOS cache文件，该文件存储系统库代码
+		  This script is for iOS cache file format, for example:dyld_shared_cache_armv7s.
+![image](https://github.com/lichao890427/010editor_script/blob/master/screenshots/macho_ext.png)
+
